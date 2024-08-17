@@ -6,3 +6,4 @@ class WeaponWear(Enum):
     FIELD_TESTED = "Field-Tested"
     WELL_WORN = "Well-Worn"
     BATTLE_SCARRED = "Battle-Scarred"
+    ALL = "All"
