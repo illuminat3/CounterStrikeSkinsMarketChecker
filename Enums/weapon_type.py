@@ -65,3 +65,6 @@ class WeaponType(Enum):
     # Machine Guns
     M249 = "M249"
     NEGEV = "Negev"
+
+    # Default
+    ANY = "Any"
